@@ -69,7 +69,7 @@ This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without
 
 Write-up for alloc8 exploit can be found here:
 
-https://github.com/axi0mX/alloc8
+https://github.com/n1z19/alloc8
 
 
 ## iBSS
