@@ -62,7 +62,7 @@ This tool should be compatible with Mac and Linux. It won't work in a virtual ma
 
 ## Tutorial
 
-This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without SHSH blobs, as documented in [JAILBREAK-GUIDE](https://github.com/axi0mX/ipwndfu/blob/master/JAILBREAK-GUIDE.md).
+This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without SHSH blobs, as documented in [JAILBREAK-GUIDE](https://github.com/n1z19/ipwndfu/blob/master/JAILBREAK-GUIDE.md).
 
 
 ## Exploit write-up
